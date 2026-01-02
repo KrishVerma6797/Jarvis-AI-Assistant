@@ -1,0 +1,11 @@
+prettytable==3.16.0
+psutil==7.0.0
+pyjokes==0.8.3
+python-dotenv==1.1.1
+pyttsx3==2.99
+pywhatkit==5.4
+Requests==2.32.4
+speechrecognition==3.14.3
+wikipedia==1.4.0
+WMI==1.5.1
+wolframalpha==5.1.3
