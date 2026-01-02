@@ -142,7 +142,7 @@ See `requirements.txt`
 ## 👤 Author
 
 **Krish Verma**
-Passionate about AI, system automation, and intelligent assistants.
+
 
 ---
 
